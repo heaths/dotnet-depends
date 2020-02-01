@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Depends</RootNamespace>
+  </PropertyGroup>
+</Project>

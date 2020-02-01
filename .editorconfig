@@ -1,0 +1,14 @@
+root = true
+
+[*]
+charset = utf-8
+indent_size = 4
+indent_syle = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{*proj,props,targets}]
+indent_size = 2
+
+[*.json]
+indent_size = 2
